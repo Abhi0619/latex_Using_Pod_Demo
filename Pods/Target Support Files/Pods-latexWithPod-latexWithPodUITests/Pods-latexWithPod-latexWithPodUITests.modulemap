@@ -1,0 +1,6 @@
+framework module Pods_latexWithPod_latexWithPodUITests {
+  umbrella header "Pods-latexWithPod-latexWithPodUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
